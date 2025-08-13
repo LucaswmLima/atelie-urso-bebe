@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página Inicial -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Loja -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/shop</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sobre -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/about</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contato -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/contact</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Ofertas -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/offers</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Exemplo de Produto -->
+  <url>
+    <loc>https://SEU-DOMINIO-AQUI/product/exemplo</loc>
+    <lastmod>2025-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>

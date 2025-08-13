@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cart
+Disallow: /orders
+Disallow: /signin
+Disallow: /signup
+Disallow: /profile
+
+Sitemap: https://SEU-DOMINIO-AQUI/sitemap.xml

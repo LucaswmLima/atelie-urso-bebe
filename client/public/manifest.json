@@ -1,0 +1,16 @@
+{
+  "name": "Ateliê Urso Bebê",
+  "short_name": "Urso Bebê",
+  "description": "Loja oficial Ateliê Urso Bebê - produtos exclusivos para bebês e crianças com qualidade e carinho.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
